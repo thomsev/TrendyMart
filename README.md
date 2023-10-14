@@ -1,55 +1,70 @@
-# TrendyMart E-commerce Platform
+# Getting Started with Create React App
 
-!![image](https://github.com/thomsev/TrendyMart/assets/100193213/fb8524c9-eef0-4f95-b4c8-0fad871e1e07)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
-Welcome to TrendyMart, a cutting-edge e-commerce platform designed to offer a seamless shopping experience for users while showcasing a diverse range of products.
+In the project directory, you can run:
 
-## Features
+### `npm start`
 
-User-Friendly Interface: Navigating through TrendyMart is a breeze. Explore hot deals through our slideshow or directly jump to our product collection.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Secure Checkout: Our platform ensures a secure and swift checkout process, complete with payment and shipping details.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Cart Integration: Add products to your cart, view selected items, and manage quantities with ease.
+### `npm test`
 
-Error Handling: Our platform is equipped with an error boundary feature to handle unexpected errors gracefully.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Contact & Support: Got questions? Our dedicated support team is always ready to help.
-## Built With
+### `npm run build`
 
--React: The project is built using the React framework, ensuring efficient and re-usable components.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
--React Router: For seamless navigation without page reloads.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
--Context API: Used for managing global state for the shopping cart.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Getting Started
+### `npm run eject`
 
-### Installing
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-1. Clone the repo:
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-```bash
-git clone https://github.com/your_username/TrendyMart.git
-```
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Learn More
 
-Navigate to the project directory:
-```bash
-cd TrendyMart
-```
-Install dependencies:
-```bash
-npm install
-```
-Run the application:
-```bash
-npm start
-```
-## Contact
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-[My Twitter page] https://twitter.com/thoseverin)
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-[My LinkedIn page] https://www.linkedin.com/in/thomas-severinsen-36b4a71b0/
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
