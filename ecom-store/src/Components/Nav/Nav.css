@@ -1,0 +1,35 @@
+nav {
+  background: linear-gradient(to right, #333, #555); 
+  padding: 10px 0;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+nav li {
+  margin: 0 20px; 
+}
+
+nav a {
+  color: #ffffff;
+  text-decoration: none; 
+  font-weight: 600; 
+  text-transform: uppercase; 
+  padding: 5px 10px; 
+  transition: color 0.3s, background-color 0.3s; 
+  border-radius: 4px; 
+}
+
+nav a:hover {
+  color: #00fd22;
+  background-color: rgba(0, 0, 0, 0.1); 
+}
+
+nav ul li:last-child {
+  margin-left: auto; 
+}
