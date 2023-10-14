@@ -1,6 +1,6 @@
 # TrendyMart E-commerce Platform
 
-!![image](https://github.com/thomsev/TrendyMart/assets/100193213/4afdbb68-99af-4d84-90f4-fa61b984cd76)
+![image](https://github.com/thomsev/TrendyMart/assets/100193213/4afdbb68-99af-4d84-90f4-fa61b984cd76)
 
 
 Welcome to TrendyMart, a cutting-edge e-commerce platform designed to offer a seamless shopping experience for users while showcasing a diverse range of products.
